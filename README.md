@@ -1,46 +1,34 @@
-Project Title: Shaple-ui
+**Project Title: Shaple-ui**
 
 To clone a landing page for this website: https://colorlib.com/shapely/
 
-Getting Started
+**Getting Started**
 
 The following instruction will walk you through the development of the cloned website on my local machine using GIT/GITHUB for the deployment and testing purposes.
 
-Prerequisities
+**Prerequisities**
 
-To clone the exact font used on the website.
+- To clone the exact font used on the website.
+- To clone the exact colors used on the website.
+- To clone the exact assets from the website such as images.
+- Make the cloned website responsive as the original website
 
-To clone the exact colors used on the website.
+**Break Down of Tasks**
 
-To clone the exact assets from the website such as images.
+- Header component
+- Banner Component
+- SEO Component
+- Portfolio Component
+- Parallax Component
+- Project Gallery Component
+- Feedback Component
+- Clients list Component
+- Footer Component
 
-Make the cloned website responsive as the original website
+**Built With**
 
-Break Down of Tasks
-
-Header component
-
-Banner Component
-
-SEO Component
-
-Portfolio Component
-
-Parallax Component
-
-Project Gallery Component
-
-Feedback Component
-
-Clients list Component
-
-Footer Component
-
-Built With
-
-HTML 5
-
-CSS
+- HTML 5
+- CSS
 
 Versioning
 
